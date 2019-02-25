@@ -11,7 +11,7 @@ import (
 	"time"
 )
 
-var s = flag.String("s", "SN18700", "ids")
+var s = flag.String("s", "SN50540", "ids")
 
 //https://mholt.github.io/json-to-go/
 type frostData struct {
